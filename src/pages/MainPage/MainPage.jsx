@@ -12,6 +12,7 @@ const MainPage = () => {
             <Display/>
         </div>
         <Player/>
+        <audio preload='auto'></audio>
       </div>
     </>
   )
